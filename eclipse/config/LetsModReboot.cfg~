@@ -1,0 +1,13 @@
+# Configuration file
+
+general {
+    B:configValue=true
+}
+
+
+minecraftforge {
+    # This is an example config value
+    B:configValue=fasle
+}
+
+
