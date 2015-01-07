@@ -1,6 +1,5 @@
 package com.yourname.modid.client.gui;
 
-import com.yourname.modid.LetsModReboot;
 import com.yourname.modid.configuration.ConfigurationHandler;
 import com.yourname.modid.reference.Reference;
 import cpw.mods.fml.client.config.GuiConfig;
